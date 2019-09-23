@@ -1,0 +1,17 @@
+{
+    "name": "emrebskn/random-hash",
+    "description": "Generate Random Hash",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Emre Baskın",
+            "email": "emre.bskn@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "RandomHash\\": "src"
+        }
+    }
+}
